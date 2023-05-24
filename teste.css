@@ -1,0 +1,32 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+
+}
+
+body{
+    color: white;
+}
+
+body2{
+    color: red;
+}
+
+p{
+    position: absolute;
+    top : 0%;
+    color: white;
+    font-size: 25px;
+}
+
+img {
+    top: 50%;
+    height: 20px;
+}
