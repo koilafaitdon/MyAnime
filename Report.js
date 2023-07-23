@@ -12,7 +12,7 @@ function submitFeedback(feedback) {
   fetch(url, {
     method: 'POST',
     headers: {
-      'Authorization': 'token VOTRE_JETON_GITHUB', // Remplacez 'VOTRE_JETON_GITHUB' par votre jeton d'accès personnel GitHub
+      'Authorization': 'token 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', // Remplacez 'VOTRE_JETON_GITHUB' par votre jeton d'accès personnel GitHub
       'Content-Type': 'application/json',
     },
     body: JSON.stringify(issueData),
