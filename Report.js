@@ -29,4 +29,3 @@ function submitFeedback(feedback) {
     alert('Une erreur s\'est produite lors de l\'envoi du feedback.');
   });
 }
-</scripts>
